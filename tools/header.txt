@@ -1,0 +1,27 @@
+/*-------------------------------------------------------------------------
+ *
+ * __filename__
+ *
+ *  <Short Description>
+ *
+ * LICENSE
+ *
+ *  Beernet is released under the Beerware License (see file LICENSE) 
+ * 
+ * IDENTIFICATION 
+ *
+ *  Author: (main author)
+ *  Contributors: (if any)
+ *
+ * NOTES
+ *
+ *  <If any>      
+ *    
+ *-------------------------------------------------------------------------
+ */
+
+functor
+import
+export
+define
+end
